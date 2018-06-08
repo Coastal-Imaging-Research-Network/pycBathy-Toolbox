@@ -1,2 +1,2 @@
 # pycBathy-Toolbox
-Translation of cBathy toolbox in python.  
+Development space for the translation of cBathy toolbox in python.  
